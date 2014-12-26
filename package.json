@@ -1,0 +1,23 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "logger ======",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha -u tdd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/i5ting/logger.git"
+  },
+  "author": "i5ting",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i5ting/logger/issues"
+  },
+  "homepage": "https://github.com/i5ting/logger",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0"
+  }
+}
