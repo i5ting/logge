@@ -1,9 +1,10 @@
 {
-  "name": "logger",
+  "name": "logge",
   "version": "1.0.0",
-  "description": "logger ======",
+  "description": "logge: a alternate console.log with debug option",
   "main": "index.js",
   "scripts": {
+		"start": "npm publish .",
     "test": "./node_modules/.bin/mocha -u tdd"
   },
   "repository": {

@@ -42,8 +42,7 @@ describe('Console', function(){
   })
 
   describe('#debug()', function(){
-    it('should return string when debug = true;', function(){
-			
+    it('should return a string when debug = true;', function(){
 			console.debug = true;
 			console.log("debug = true;");
           
@@ -51,7 +50,6 @@ describe('Console', function(){
     })
 		
     it('should return empty string when debug = false;', function(){
-			
 			console.debug = false;
 			console.log("debug = true;");
           
