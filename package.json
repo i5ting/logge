@@ -1,6 +1,6 @@
 {
   "name": "logge",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "logge: a alternate console.log with debug option",
   "main": "index.js",
   "scripts": {

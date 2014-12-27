@@ -19,6 +19,10 @@ or
 	console.log("debug = false, console.log will dump nothing");
 
 
+## Refference 
+
+- [js调试工具Console命令详解](http://www.jb51.net/article/56504.htm)
+
 ## Contributing
 
 1. Fork it
